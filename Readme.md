@@ -1,7 +1,7 @@
 
 # biscuit
 
-  Adlayer library builder
+  Real world javascipt library builder
 
 ## License 
 
